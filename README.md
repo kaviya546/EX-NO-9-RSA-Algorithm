@@ -9,6 +9,7 @@ To Implement RSA Encryption Algorithm in Cryptography
 Step 1: Design of RSA Algorithm  
 The RSA algorithm is based on the mathematical difficulty of factoring the product of two large prime numbers. It involves generating a public and private key pair, where the public key is used for encryption, and the private key is used for decryption.
 
+
 Step 2: Implementation in Python or C 
 This algorithm can be implemented in languages like Python or C by performing large integer calculations for key generation, encryption, and decryption, utilizing libraries for modular arithmetic if necessary.
 
